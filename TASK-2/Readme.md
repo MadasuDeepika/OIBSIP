@@ -9,7 +9,7 @@ A tribute page for Sarojini Naidu, an Indian independence activist and poet who 
 
 Her tribute page highlights her contributions to Indian literature and politics, her advocacy for women's rights, and her role in the Indian independence movement. 
 
-### Screenshot: [Live]()
+### Screenshot: [Live](https://madasudeepika.github.io/OIBSIP/TASK-2/index.html)
 
 
 ![3](https://user-images.githubusercontent.com/91784120/228565507-7c028b2c-96f9-40d3-83ac-03e586485e80.png)
